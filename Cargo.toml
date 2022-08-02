@@ -1,0 +1,17 @@
+[package]
+name = "browser-history"
+version = "0.0.1"
+edition = "2021"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+description = "library to easily read the browser history from your local browser database."
+repository = "https://github.com/kornelijus/browser-history"
+homepage = "https://github.com/kornelijus/browser-history"
+authors = ["Kornelijus Tvarijanavičius <kornelijus@tvaria.com>"]
+keywords = ["browser", "history", "chrome", "firefox", "backup"]
+categories = ["database", "filesystem"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
